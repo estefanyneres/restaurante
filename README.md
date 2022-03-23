@@ -21,13 +21,13 @@ Projeto desenvolvido durante o curso Frontstart, visando facilitar e agilizar a 
 ## 🖥️ Demonstração
 
 <div align="center">
-   <img src="demonstration/mockups.png" width="800"/>
+   <img src="demonstration/mockups.png" width="750"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="demonstration/desktop.gif" width="800"/>
+  <img src="demonstration/desktop.gif" width="750"/>
 </div>
 
 <div align="center">
