@@ -31,8 +31,7 @@ Projeto desenvolvido durante o curso Frontstart, visando facilitar e agilizar a 
 </div>
 
 <div align="center">
-  <img src="demonstration/mockup.png" width="300" height="600"/>
-  <img src="demonstration/smartphone.gif" width="315" height="580"/>
+  <img src="demonstration/smartphone.gif" width="260" height="450"/>
 </div>
 
 ## 🚀 Tecnologias
