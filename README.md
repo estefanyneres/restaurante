@@ -37,8 +37,8 @@ Projeto desenvolvido durante o curso Frontstart, visando facilitar e agilizar a 
 
 ## 🚀 Tecnologias
 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Vue.js
 - Less
